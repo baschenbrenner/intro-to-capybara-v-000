@@ -1,2 +1,2 @@
 require './config/environment.rb'
-run App
+run Application
